@@ -29,7 +29,7 @@ export default function Home() {
         />
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)] space-y-2">
           <li>
-            Get started by editing <CodeWrap>src/app/page.tsx</CodeWrap>.
+            Get started by editing Nigga <CodeWrap>src/app/page.tsx</CodeWrap>.
           </li>
           <li>Save and see your changes instantly.</li>
           <li>Test public dir: <Link className={'text-blue-600 underline'} href={'/robots.txt'}>/robots.txt</Link></li>
